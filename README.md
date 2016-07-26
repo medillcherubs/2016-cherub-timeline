@@ -6,10 +6,11 @@ https://medillcherubs.github.io/2016-cherub-timeline/
 Paste this into your Wordpress post:
 
 ```
-<div id="cherub-timeline"></div>
+[raw]<div id="cherub-timeline"></div>
 <script> var pymParent = new pym.Parent("cherub-timeline", "//medillcherubs.github.io/2016-cherub-timeline/index.html", {}); </script>
 
 <!-- Edit: https://github.com/medillcherubs/2016-cherub-timeline/edit/gh-pages/index.html -->
+[/raw]
 ```
 
 Make sure the following code is at the bottom of your `index.html`:
